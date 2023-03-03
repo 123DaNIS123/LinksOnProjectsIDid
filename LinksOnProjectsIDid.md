@@ -12,3 +12,5 @@ https://github.com/Damir564/WorkFromHomeWebProject
 https://github.com/Damir564/HownTanksGame      <-- new version of H.O.W.N Tanks game
 
 https://github.com/SuperProDamir/howntanks     <-- old version of H.O.W.N Tanks game
+
+https://github.com/Damir564/CopyPasters_evraz   <-- kafka, databases
